@@ -1,0 +1,3 @@
+'Porcetagem'
+listax = []
+listay = []
